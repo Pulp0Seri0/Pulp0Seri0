@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy Emmanuel Flores (puede decirme: Pul0Seri0)
 
-<!--
-**Pulp0Seri0/Pulp0Seri0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de ingeniería  
+🐍 Python como lenguaje principal  
+📚 Aprendiendo programación, algoritmos y matemáticas  
+   Interesado en estudiar HTML
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- Python
+- Git & GitHub
+- Matemáticas aplicadas
+- Algoritmos y estructuras de datos (en progreso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 En qué estoy trabajando
+- Proyectos pequeños pero bien documentados en Python
+- Implementación y comprensión de algoritmos clásicos
+- Mejora de lógica y escritura de código limpio
+
+## 🌱 Objetivo
+Desarrollarme en el área de sistemas inteligentes e inteligencia artificial, con un enfoque humano y responsable.
