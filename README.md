@@ -3,7 +3,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> <img> ¿Quien es Pul0Seri0?
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="190" align="right"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180" align="right"/>
 
 - 👽 Mi verdadero nombre es Emmanuel Flores Ortiz (Un gusto).
 - 🌎 Soy habitante de la Tierra, siendo mas especifico de Mexico, San Luis Potosí.
