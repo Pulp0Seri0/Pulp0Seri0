@@ -1,8 +1,8 @@
-<h1 align="center"> 🖖 HOLA HUMANO!! Soy Pulp0Serio <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50" /> </h1>
+<h1 align="center"> 🖖 HOLA HUMANO!! Soy Pulp0Seri0 <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50" /> </h1>
 <h3 align="center"> 🚀 Programador en aprendizaje 🚀 </h3>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> <img> ¿Quien es Pul0Seri0?
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"> <img> ¿Quien es Pulp0Seri0?
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180" align="right"/>
 
 - 👽 Mi verdadero nombre es Emmanuel Flores Ortiz (Un gusto).
